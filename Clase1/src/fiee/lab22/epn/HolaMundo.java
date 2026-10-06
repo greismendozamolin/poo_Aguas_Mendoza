@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package fiee.lab22.epn;
+import java.lang.Math;
+
+/**
+ * 
+ */
+public class HolaMundo {
+
+	/**
+	 * 
+	 */
+	public HolaMundo() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hola Mundo");
+		System.out.printf("Desde la EPN %f", Math.PI);
+	}
+
+}
